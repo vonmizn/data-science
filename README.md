@@ -7,7 +7,7 @@ Practice what we have learned in order to become the greatest data scientists in
 - Kaggle
 - OpenData.gov
 - from class
-  - the second layer  
+  - XYZ  
 ## Stakeholders
 
 
