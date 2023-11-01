@@ -5,11 +5,15 @@ Practice what we have learned in order to become the greatest data scientists in
 
 ## Data Source
 - Kaggle
-- OpenData.gov
-- from class
-  - XYZ  
+
+## Data Description
+- Sales Data by Customer
+
+## Questions
+- Which customer has the most revenue growth over time?
+- Which country has the most revenue growth?
+- What deal size contributes the most to revenue?
+  
 ## Stakeholders
-
-
 1. Natalya von Mizener
 2. Jorge Paganetto 
