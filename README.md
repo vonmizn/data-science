@@ -21,4 +21,6 @@ Practice what we have learned in order to become the greatest data scientists in
   
 ## Stakeholders
 1. Natalya von Mizener
-2. Jorge Paganetto 
+2. Jorge Paganetto
+
+## Other
